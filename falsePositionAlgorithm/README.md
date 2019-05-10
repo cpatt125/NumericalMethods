@@ -6,4 +6,4 @@ The inputs for this function are: the function being evaluated, the lower guess 
 
 The outputs for this function are the: root estimate, f(x) value pertaining to the root estimate, approximate relative error, number of iterations completed before ending.
 
-This function has issues and does not perform correctly yet.
+This function has issues and does not perform correctly yet. Open to any improvement suggestions.
